@@ -1,7 +1,3 @@
-hi this is himani
-A
-B
-B
-C
-C
+Hi this is himani
+and i am editing this from github.
 
